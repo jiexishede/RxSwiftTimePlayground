@@ -5,8 +5,8 @@ target 'timeTest' do
   # Comment the next line if you don't want to use dynamic frameworks
   use_frameworks!
 
-  pod "RxCocoa", "5.1.0"
-  pod "RxSwift", "5.1.0"
+  pod "RxCocoa", "6.1.0"
+  pod "RxSwift", "6.1.0"
 
   # Pods for timeTest
 
