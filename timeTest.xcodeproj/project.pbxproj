@@ -27,6 +27,7 @@
 		6A480DF72B45477F00A5E074 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		6A480DF92B45477F00A5E074 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		6A480DFF2B454E8900A5E074 /* RxSwiftPlayground.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = RxSwiftPlayground.playground; sourceTree = "<group>"; };
+		714CE68A2B46E17400216B91 /* RxSwiftPlayground2.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = RxSwiftPlayground2.playground; sourceTree = "<group>"; };
 		C92214B7F9857D1209467B1D /* Pods-timeTest.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-timeTest.release.xcconfig"; path = "Target Support Files/Pods-timeTest/Pods-timeTest.release.xcconfig"; sourceTree = "<group>"; };
 		D1061723DE91FB419A57BFC6 /* Pods-timeTest.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-timeTest.debug.xcconfig"; path = "Target Support Files/Pods-timeTest/Pods-timeTest.debug.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -64,6 +65,7 @@
 			isa = PBXGroup;
 			children = (
 				6A480DFF2B454E8900A5E074 /* RxSwiftPlayground.playground */,
+				714CE68A2B46E17400216B91 /* RxSwiftPlayground2.playground */,
 				6A480DEA2B45477E00A5E074 /* timeTest */,
 				6A480DE92B45477E00A5E074 /* Products */,
 				5E11A9C8DDB58A557B38EF52 /* Pods */,
